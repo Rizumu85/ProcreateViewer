@@ -234,7 +234,6 @@ Contributions welcome! Feel free to:
 
 **Made with ❤️ for digital artists who use Procreate and Windows**
 
-##
 
 
 
